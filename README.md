@@ -15,7 +15,7 @@
 <p align = "center">
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andresfcastrom/)
-[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](castromanzano95@gmail.com)
+[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:castromanzano95@gmail.com)
 [![Visits Badge](https://badges.pufler.dev/visits/Nirsch95/Nirsch95?style=for-the-badge)](https://github.com/Nirsch95)
 
 </p>
