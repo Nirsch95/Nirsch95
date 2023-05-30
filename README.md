@@ -49,3 +49,12 @@
 <img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:256/0*Qrh5x0L5XWFRvA9P.png" alt="Spring" height="40" />
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png" alt="Node.js" height="40" />
 </div>  
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nirsch95&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nirsch95&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
