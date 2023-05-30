@@ -40,6 +40,8 @@
 <h2>Tools</h2>
 <br>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
+<img style="margin: 10px" src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VSC" height="40" />  
+<img style="margin: 10px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/10/logo_zjwX5FR.png" alt="VSC" height="40" />
 <br>
 <h2>Backend</h2>
 <br>
